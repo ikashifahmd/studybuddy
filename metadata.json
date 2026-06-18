@@ -1,0 +1,6 @@
+{
+  "name": "StudyBuddy",
+  "description": "StudyBuddy is a feature-rich, beautiful study organizer app that helps students manage subjects, take quick notes, track assignments, checklist tasks, monitor attendance, calculate GPA, log results, customize timetables, and receive smart reminders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
